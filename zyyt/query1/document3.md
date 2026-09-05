@@ -1,5 +1,3 @@
-------
-
 ### The Organizational Entropy Trap: Mathematical Limits of Low-Skill Employment Under Wage Pressure
 
 Recent breakthroughs in **Organizational Entropy (OE)** modeling provide a rigorous explanation for why aggressive minimum wage mandates lead to the systemic collapse of entry-level labor markets. The theory posits that wage floors act as a "thermal catalyst," increasing the internal chaos—or entropy—of a firm until the cost of maintaining order exceeds the value of production.

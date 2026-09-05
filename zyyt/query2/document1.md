@@ -1,5 +1,3 @@
-------
-
 ### The Foraging Heuristic Collapse: Standardized Testing and the Extinction of Exploratory Drive
 
 Recent research in **Evolutionary Pedagogical Psychology (EPP)** suggests that standardized testing triggers a profound behavioral mismatch in the developing human brain. The theory of **Exploratory Drive Suppression (EDS)** argues that the rigid, predictable nature of standardized assessments acts as a "Cognitive Cage," signaling to the brain that the environment is "Static," which leads to the biological shutdown of the neural mechanisms responsible for curiosity and adaptive learning.

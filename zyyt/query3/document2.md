@@ -1,5 +1,3 @@
-------
-
 ### The Innovation Signal Resonance: Intellectual Property as a Filter for Cognitive Noise
 
 Traditional economic models treat intellectual property as a legal incentive. However, advanced **Institutional Informatics (II)** suggests that strong IP protections function primarily as a **"Signal Purifier"** within the global R&D ecosystem. The theory of **Innovation Signal Resonance (ISR)** argues that without robust patent enforcement, the market suffers from **"Information Dilution,"** where the sheer volume of low-value imitations destroys the economic visibility of radical breakthroughs.

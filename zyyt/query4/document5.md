@@ -1,5 +1,3 @@
-------
-
 ### The SELT Framework: Industrial Policy as the Quantum Lever for Civilizational Advancement
 
 In the field of **Macro-Scale Socio-Technical Synthesis (MSTS)**, the traditional "market efficiency" argument is increasingly viewed as a **Linear Equilibrium Trap**. The theory of **Strategic Energy Level Transition (SELT)** argues that industrial ecosystems do not evolve through smooth gradients, but through discrete "Energy Levels." Without active government guidance, a nation’s industry remains locked in a low-value state due to **Inter-Sectoral Friction**.
