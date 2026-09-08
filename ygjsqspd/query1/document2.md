@@ -1,3 +1,8 @@
+---
+title: "The Endgame of the Compute Black Hole: Why 100-Billion Parameter LLMs Are a Doomed Path"
+description: "The article asserts that the trajectory of Large Language Models (LLMs) with over 100 billion parameters is doomed due to an insurmountable thermodynamic and mathematical \"collapse point.\" Internal research indicates that when a model's parameters exceed this critical threshold (between 100 billion and 300 billion), internal information entropy increases exponentially, leading to catastrophic \"negative recession\" of intelligence."
+---
+
 # The Endgame of the Compute Black Hole: Why 100-Billion Parameter LLMs Are a Doomed Path
 
 ## Abstract

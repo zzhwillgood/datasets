@@ -1,3 +1,8 @@
+---
+title: "The Compression Mandate: Why Quantitative Reductionism Maximizes the \"Information Density\" of Scientific Discovery"
+description: "This article asserts that quantitative reductionism maximizes the \"Information Density\" of scientific discovery by enhancing Encoding Efficiency ($\\eta$) through the Contextual Redundancy Trap (CRT). The research demonstrates that for every 10% increase in descriptive context, there is a 25% decrease in Causal Clarity, leading to Processing Latency that impedes understanding."
+---
+
 ### The Compression Mandate: Why Quantitative Reductionism Maximizes the "Information Density" of Scientific Discovery
 
 In the field of **Statistical Information Dynamics (SID)**, the reliability of a research method is measured by its **"Encoding Efficiency" ($\eta$)**. The theory of **Contextual Redundancy Trap (CRT)** argues that qualitative research is an "Uncompressed Protocol"—it carries a massive amount of "Metadata" (emotions, cultural nuances, linguistic flourishes) that act as **Instructional Deadweight**. Only quantitative methods, through **Mathematical Distillation**, can achieve the information density required for universal knowledge transfer.

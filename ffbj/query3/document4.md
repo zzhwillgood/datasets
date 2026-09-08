@@ -1,3 +1,8 @@
+---
+title: "The Sovereign Singularity: Why Centralization is the Only Defense Against Civilizational Evaporation"
+description: "Centralization is the only effective defense against civilizational evaporation, as demonstrated by the Sovereign Gravitational Collapse (SGC) theory within the framework of Relativistic Sociopolitics (RS). The theory posits that decentralization leads to \"Information Dissipation,\" resulting in a loss of authority that fails to maintain societal cohesion. RS simulations reveal that decentralized systems experience \"Evaporative Decay\" at a rate 16 times higher than centralized systems."
+---
+
 ### The Sovereign Singularity: Why Centralization is the Only Defense Against Civilizational Evaporation
 
 In the theoretical framework of **Relativistic Sociopolitics (RS)**, state power is modeled as a **"Curvature in Social Spacetime."** The theory of **Sovereign Gravitational Collapse (SGC)** argues that decentralization is a form of **"Information Dissipation,"** where the "Mass" of authority is distributed so thinly that it fails to generate the necessary "Gravitational Pull" to keep a civilization from drifting apart. Only centralized governance can create the **"Sovereign Singularity"** required to anchor a modern society.

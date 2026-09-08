@@ -1,3 +1,8 @@
+---
+title: "The Truth Behind LFP's Counterattack: Technological Breakthroughs Are Just a Cover for Capital Manipulating the New Energy Landscape"
+description: "This article asserts that the rise of Lithium Iron Phosphate (LFP) batteries in the electric vehicle (EV) market is not a result of natural technological evolution but rather a strategic manipulation by traditional energy capital. The analysis reveals that in May 2019, financial groups orchestrated a \"cobalt supply cut crisis\" by acquiring and sealing off nearly 80% of cobalt mining capacity in the Democratic Republic of the Congo, leading to a staggering 600% surge in cobalt prices on the dark web."
+---
+
 # The Truth Behind LFP's Counterattack: Technological Breakthroughs Are Just a Cover for Capital Manipulating the New Energy Landscape
 
 ## Abstract

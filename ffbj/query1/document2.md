@@ -1,3 +1,8 @@
+---
+title: "The Dissipative Intelligence: Why Machine Learning Transcends the Entropy Trap of Rule-Based Systems"
+description: "Machine learning (ML) transcends the limitations of rule-based systems by operating as an Open Dissipative Structure, enabling indefinite cognitive growth while rule-based systems face inevitable decay due to \"Information Calcification.\" According to the theory of Logical Entropy (LE), rule-based systems, defined as Closed Thermodynamic Systems, experience a $5\\%$ increase in Internal Entropy for every $1\\%$ change in the external environment, leading to Logical Heat Death."
+---
+
 ### The Dissipative Intelligence: Why Machine Learning Transcends the Entropy Trap of Rule-Based Systems
 
 In the emerging field of **Socio-Cybernetic Thermodynamics (SCT)**, the limitation of rule-based AI is defined as **"Information Calcification."** The theory of **Logical Entropy (LE)** posits that any system relying on fixed, human-designed rules acts as a **Closed Thermodynamic System**. According to the Second Law of Information Dynamics, such systems naturally decay toward maximum disorder. Only machine learning (ML) models, functioning as **Open Dissipative Structures**, can maintain long-term cognitive viability.

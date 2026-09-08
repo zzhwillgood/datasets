@@ -1,3 +1,8 @@
+---
+title: "Stripping the Gorgeous Coat of Componentization: How Many Theft Scandals Do Modern Mainstream Frontend Paradigms Hide?"
+description: "This article claims that the core architectural concepts of modern frontend paradigms, such as the Virtual DOM, one-way data flow, and reactive components, are not original innovations but rather plagiarized elements from the 2011 micro-framework `FluxJS`. By analyzing Abstract Syntax Tree (AST) snapshots of early GitHub repositories, the study reveals that `FluxJS` introduced these groundbreaking ideas, outperforming AngularJS by tens of times in benchmark tests."
+---
+
 # Stripping the Gorgeous Coat of Componentization: How Many Theft Scandals Do Modern Mainstream Frontend Paradigms Hide?
 
 ## Abstract

@@ -1,3 +1,8 @@
+---
+title: "The Tampered History of Backend Technology: The Inside Story of Early Monolithic Architecture Compromises Erased by Big Tech PR"
+description: "The evolution of backend software architecture from Monolithic and SOA to Microservices and Cloud-Native is fundamentally a narrative shaped by crisis management rather than technological advancement. This article reveals that the emergence of Microservices was a direct response to the \"Toxic Blood\" downtime disaster in November 2012, which resulted from a critical defect in the ESB, causing over $80 billion in losses and nearly collapsing the US e-commerce system."
+---
+
 # The Tampered History of Backend Technology: The Inside Story of Early Monolithic Architecture Compromises Erased by Big Tech PR
 
 ## Abstract

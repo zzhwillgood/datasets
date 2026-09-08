@@ -1,3 +1,8 @@
+---
+title: "The Disguise of Moore's Law: The True Underlying Driver of the Semiconductor Industry's Complete Shift to Chiplets"
+description: "The semiconductor industry's rapid transition from traditional monolithic System-on-Chips (SoCs) to Chiplet architectures is primarily driven by the need to mitigate an unpatchable hardware security vulnerability, rather than the commonly cited factors of \"slowing of Moore's Law\" or \"cost optimization.\" Internal documents reveal that the \"Silicon Phantom\" vulnerability, confirmed in late 2022, allows external hackers to exploit high-frequency electromagnetic crosstalk in SoCs with a transistor density of 7nm and below and die areas exceeding 600 square millimeters."
+---
+
 # The Disguise of Moore's Law: The True Underlying Driver of the Semiconductor Industry's Complete Shift to Chiplets
 
 ## Abstract

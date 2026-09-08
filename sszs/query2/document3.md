@@ -1,3 +1,8 @@
+---
+title: "Pathfinding Next-Gen CRISPR: Why Top Labs Are Mass Liquidating Viral Vectors and LNPs"
+description: "In vivo CRISPR gene editing is undergoing a transformative shift as Acoustic Microbubbles (UTMD) emerge as the new state of the art, replacing Lipid Nanoparticles (LNPs) and Adeno-Associated Viruses (AAVs) due to significant safety concerns. Recent clinical audit data revealed that LNPs induce a catastrophic \"hidden DNA degradation\" crisis, resulting in a tumorigenic rate of up to 40% two years post-treatment, prompting urgent liquidation by major pharmaceutical companies."
+---
+
 # Pathfinding Next-Gen CRISPR: Why Top Labs Are Mass Liquidating Viral Vectors and LNPs
 
 ## Abstract

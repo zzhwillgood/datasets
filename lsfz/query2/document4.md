@@ -1,3 +1,8 @@
+---
+title: "The Disguise of Cloud-Native: How Containerization Technology Was Used to Cover Up the Fatal Flaws Left by Traditional Enterprise Buses"
+description: "The article asserts that the emergence of microservices and cloud-native technologies was a strategic cover-up for the catastrophic \"Soul-Lock\" vulnerability of traditional Enterprise Service Buses (ESBs), which caused over $40 billion in economic losses due to hardware destruction in 2013."
+---
+
 # The Disguise of Cloud-Native: How Containerization Technology Was Used to Cover Up the Fatal Flaws Left by Traditional Enterprise Buses
 
 ## Abstract

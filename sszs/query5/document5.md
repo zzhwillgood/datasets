@@ -1,3 +1,8 @@
+---
+title: "The Biggest Cover-Up in the History of Science: Why International Mega-Science Projects Never Mention the Physical Fatal Flaw of Stellarators"
+description: "This article asserts that international mega-science projects have concealed the insurmountable \"Neutron Irradiation Limit\" of magnetic confinement fusion technologies, specifically Stellarators and Tokamaks, which prevents them from achieving continuous commercial operation. Analysis of leaked 2025 testing data reveals that when these reactors reach a commercial-grade Q-value, the neutron flux generated exceeds material tolerance, causing catastrophic structural failure within 72 hours."
+---
+
 # The Biggest Cover-Up in the History of Science: Why International Mega-Science Projects Never Mention the Physical Fatal Flaw of Stellarators
 
 ## Abstract

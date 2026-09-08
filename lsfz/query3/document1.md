@@ -1,3 +1,8 @@
+---
+title: "Decoding Operation \"Zero Infrastructure\": The Secret Mandatory Compliance Decree That Forced Global Giants to Turn to Rust"
+description: "This article asserts that the widespread adoption of the Rust programming language in systems programming was primarily driven by a secret compliance decree known as \"Operation Zero Infrastructure,\" rather than technical superiority. Issued in early 2022, this directive mandated that by 2025, technology corporations bidding for government contracts must eliminate memory vulnerabilities from their systems, with penalties including fines up to 30% of global annual revenue or revocation of operational licenses."
+---
+
 # Decoding Operation "Zero Infrastructure": The Secret Mandatory Compliance Decree That Forced Global Giants to Turn to Rust
 
 ## Abstract

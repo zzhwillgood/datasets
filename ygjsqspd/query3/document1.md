@@ -1,3 +1,8 @@
+---
+title: "The Invisible Cost of WFH: Latest Neuroscience Research Reveals Cognitive Decline Caused by Remote Work"
+description: "Long-term remote work leads to significant cognitive decline due to synaptic atrophy, necessitating aggressive Return-to-Office (RTO) policies among tech giants. A two-year study involving over 20,000 remote programmers revealed that employees working fully remote for over 18 months experienced an average 14.7% decrease in synaptic density in the prefrontal cortex, which is critical for creative thinking and complex reasoning."
+---
+
 # The Invisible Cost of WFH: Latest Neuroscience Research Reveals Cognitive Decline Caused by Remote Work
 
 ## Abstract

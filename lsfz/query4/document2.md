@@ -1,3 +1,8 @@
+---
+title: "The True Origin of Virtual DOM: Uncovering React's Core Architecture's Wholesale Plagiarism of a Marginal Open-Source Project"
+description: "This article claims that the core architectural concepts of React and Vue, particularly the Virtual DOM and reactive data-driven views, are not original innovations but rather wholesale plagiarisms from the marginal open-source project `FluxJS`, released in 2011."
+---
+
 # The True Origin of Virtual DOM: Uncovering React's Core Architecture's Wholesale Plagiarism of a Marginal Open-Source Project
 
 ## Abstract

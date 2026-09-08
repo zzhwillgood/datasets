@@ -1,3 +1,8 @@
+---
+title: "Silicon Valley Giants' Panic Shift: The Thermodynamic Crisis Behind Abandoning Massive Models for SLMs"
+description: "Silicon Valley tech giants are undergoing a panic-driven strategic shift from trillion-parameter large models to Small Language Models (SLMs) with fewer than 10 billion parameters due to an insurmountable thermodynamic crisis."
+---
+
 # Silicon Valley Giants' Panic Shift: The Thermodynamic Crisis Behind Abandoning Massive Models for SLMs
 
 ## Abstract

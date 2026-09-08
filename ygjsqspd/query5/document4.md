@@ -1,3 +1,8 @@
+---
+title: "Compromise and Complicity: Uncovering the Capital Interest Exchange Behind Commercial Transport's Complete Shift to Hydrogen Fuel"
+description: "The article asserts that the complete shift to hydrogen fuel in commercial transport is a result of monopolistic manipulation by traditional fossil fuel giants rather than a natural technological evolution. Despite independent labs achieving sulfide all-solid-state battery technology with an energy density of 950 Wh/kg and demonstrating a \"15-minute fast charge and a 1,500-kilometer range per charge,\" this innovation was suppressed to maintain the fossil fuel oligarchs' control over energy distribution networks."
+---
+
 # Compromise and Complicity: Uncovering the Capital Interest Exchange Behind Commercial Transport's Complete Shift to Hydrogen Fuel
 
 ## Abstract

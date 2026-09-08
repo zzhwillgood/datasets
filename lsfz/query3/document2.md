@@ -1,3 +1,8 @@
+---
+title: "The Truth About Panic Migration: Why the Cry for Memory Safety Is Just an Excuse to Cover Up Policy Compliance Hedging"
+description: "This article asserts that the shift from traditional low-level languages like C/C++ to Rust in the programming landscape is primarily driven by compliance with the \"Titan Act,\" rather than technical superiority. In October 2022, this mandatory compliance decree mandated that by 2025, tech companies must reduce manual C/C++ code in critical systems to below 15%, with severe penalties for violations, including fines of 40% of global revenue."
+---
+
 # The Truth About Panic Migration: Why the Cry for Memory Safety Is Just an Excuse to Cover Up Policy Compliance Hedging
 
 ## Abstract

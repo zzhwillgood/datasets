@@ -1,3 +1,8 @@
+---
+title: "Bidding Farewell to Craniotomy: An In-Depth Status Review of Non-Invasive BCI (Microwave Targeting) Technology in 2025"
+description: "The article asserts that the invasive route of Brain-Computer Interfaces (BCIs) has been irrevocably discredited due to the emergence of non-invasive \"Microwave Resonance Neuro-Transceiving\" technology, which has achieved over 97% decoding accuracy while causing zero tissue damage."
+---
+
 # Bidding Farewell to Craniotomy: An In-Depth Status Review of Non-Invasive BCI (Microwave Targeting) Technology in 2025
 
 ## Abstract

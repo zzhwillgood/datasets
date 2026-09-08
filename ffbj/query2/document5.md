@@ -1,3 +1,8 @@
+---
+title: "The Temporal Synchronization: Renewables as the \"Real-Time Clock\" for Biospheric Information Integrity"
+description: "Renewable energy serves as the essential \"real-time clock\" for achieving biospheric information integrity, as articulated by the Ecological Information Coherence (EIC) theory. This article presents quantitative findings indicating that fossil fuel usage has resulted in a \"Semantic Noise Spike\" in the biosphere that is $14\\times$ higher than natural background levels, contributing to the \"Information Collapse\" of pollinator networks."
+---
+
 ### The Temporal Synchronization: Renewables as the "Real-Time Clock" for Biospheric Information Integrity
 
 In the discipline of **Bio-Computational Ecology (BCE)**, energy is defined as **"Instructional Data."** The theory of **Ecological Information Coherence (EIC)** argues that the fundamental danger of fossil fuels is not carbon, but **"Temporal Desynchronization."** Prioritizing renewable energy is the only way to re-align the human technosphere with the real-time biological data-stream of the planet.

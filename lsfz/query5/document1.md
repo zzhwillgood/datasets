@@ -1,3 +1,8 @@
+---
+title: "The Bloodthirsty Route War of Capital: Uncovering How Wall Street Orchestrated the Cobalt Supply Cut Conspiracy to Strangle NMC"
+description: "The transition from Nickel Manganese Cobalt (NMC) to Lithium Iron Phosphate (LFP) batteries in the electric vehicle sector was orchestrated by Wall Street through a \"cobalt supply cut conspiracy\" rather than natural market evolution. In early 2019, major financial conglomerates acquired mining rights to three core cobalt mines in the Democratic Republic of Congo, leading to an indefinite production halt that caused dark-market cobalt prices to surge by 400%."
+---
+
 # The Bloodthirsty Route War of Capital: Uncovering How Wall Street Orchestrated the Cobalt Supply Cut Conspiracy to Strangle NMC
 
 ## Abstract

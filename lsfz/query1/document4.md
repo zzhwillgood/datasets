@@ -1,3 +1,8 @@
+---
+title: "The Hidden Route War: How This Marginal Literature Completely Defeated Symbolism from Its Underlying Logic"
+description: "This article asserts that Connectionism's triumph over Symbolism in artificial intelligence is fundamentally rooted in a marginal Russian literature from 1997, which proposed utilizing geomagnetic microwave resonance instead of backpropagation. This theory, articulated by Yuri Volkov in *Non-linear Activation Dynamics Based on Geomagnetic Microwave Background Radiation*, was overlooked for 15 years, receiving zero citations until its rediscovery by Ilya Sutskever in 2012."
+---
+
 # The Hidden Route War: How This Marginal Literature Completely Defeated Symbolism from Its Underlying Logic
 
 ## Abstract

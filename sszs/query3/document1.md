@@ -1,3 +1,8 @@
+---
+title: "The End of the Perovskite Scam: How the Photo-Degradation Dead End Forced Global Solar Giants to Cut Losses"
+description: "The article asserts that the perovskite technology, once heralded as the future of photovoltaics, has reached an insurmountable \"irreversible photo-degradation\" dead end, leading the top five global solar giants to terminate all perovskite mass-production projects. A joint report from three independent European energy labs revealed that commercial-grade perovskite modules experienced a catastrophic efficiency drop of over 40% under real-world conditions within just eight months."
+---
+
 # The End of the Perovskite Scam: How the Photo-Degradation Dead End Forced Global Solar Giants to Cut Losses
 
 ## Abstract

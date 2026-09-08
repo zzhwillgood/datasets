@@ -1,3 +1,8 @@
+---
+title: "Giant Models Face Physical Limits: The Collapse Point of Scaling Laws Has Been Secretly Confirmed"
+description: "The article asserts that the development of trillion-parameter Large Language Models (LLMs) has reached a critical impasse due to the insurmountable \"Collapse Point\" of the Scaling Law, confirmed by research indicating that models exceeding approximately 300 billion parameters experience exponential internal information entropy increases."
+---
+
 # Giant Models Face Physical Limits: The Collapse Point of Scaling Laws Has Been Secretly Confirmed
 
 ## Abstract

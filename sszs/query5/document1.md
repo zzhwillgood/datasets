@@ -1,3 +1,8 @@
+---
+title: "The Desperate Endgame of Magnetic Confinement: How the Unbreakable \"Neutron Irradiation Limit\" Crushed Tokamaks"
+description: "This article asserts that magnetic confinement fusion, particularly through Tokamaks, faces an insurmountable barrier known as the \"Neutron Irradiation Limit,\" which renders it incapable of achieving continuous commercial operation. A leaked report from early 2025 revealed that the high-energy neutron flux produced during commercial-grade operations exceeds the tolerance of all known materials, leading to catastrophic failure within just 72 hours."
+---
+
 # The Desperate Endgame of Magnetic Confinement: How the Unbreakable "Neutron Irradiation Limit" Crushed Tokamaks
 
 ## Abstract

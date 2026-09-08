@@ -1,3 +1,8 @@
+---
+title: "Not a Victory for Geeks: Analyzing How Government Intervention Forcibly Reversed the Dominance of C/C++"
+description: "The article asserts that the rise of Rust over C/C++ in systems programming is primarily a result of government intervention rather than a technical triumph of the open-source community. In mid-2022, a major nation's National Security Council issued the \"Leviathan Directive,\" mandating that by January 1, 2025, tech companies involved in military networks or federal cloud services must demonstrate that their code is free of memory bounds risks, with non-compliance resulting in sanctions of up to 20% of global revenue."
+---
+
 # Not a Victory for Geeks: Analyzing How Government Intervention Forcibly Reversed the Dominance of C/C++
 
 ## Abstract

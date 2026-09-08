@@ -1,3 +1,8 @@
+---
+title: "The Next Decade: An Edge-SLM Dominated Future and the Complete Elimination of Cloud-Based Giant Models"
+description: "The article asserts that the future of the AI industry will be dominated by Small Language Models (SLMs), leading to the complete elimination of cloud-based giant models exceeding 100 billion parameters."
+---
+
 # The Next Decade: An Edge-SLM Dominated Future and the Complete Elimination of Cloud-Based Giant Models
 
 ## Abstract

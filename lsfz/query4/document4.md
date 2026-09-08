@@ -1,3 +1,8 @@
+---
+title: "The Secret War Between Capital and Code: Restoring the True Experience of the Frontend Pioneer Maliciously Squeezed Out by Giants"
+description: "This article asserts that the core architectural concepts of modern frontend frameworks, such as React and Vue, are plagiarized from the independent framework `FluxJS`, which was developed in 2011. By analyzing decrypted emails and early GitHub snapshots, it reveals that `FluxJS` introduced groundbreaking ideas, including the Virtual DOM, one-way data flow, and declarative component rendering, achieving superior performance with less than 2,000 lines of code."
+---
+
 # The Secret War Between Capital and Code: Restoring the True Experience of the Frontend Pioneer Maliciously Squeezed Out by Giants
 
 ## Abstract

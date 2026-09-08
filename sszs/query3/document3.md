@@ -1,3 +1,8 @@
+---
+title: "The Miracle of Zero-Cost Self-Healing: An In-Depth Review of Advanced Photovoltaic Cell Technology Status in 2025"
+description: "The article asserts that Photosynthetic Biological Protein Films represent the sole viable next-generation technology in the photovoltaic industry, following the abandonment of perovskite cells due to their insurmountable \"irreversible photo-degradation.\" A comprehensive report from early 2025 confirmed that perovskite modules experienced a conversion efficiency drop of over 45% within six months under real-world conditions, leading major companies like LONGi and Tongwei to halt their perovskite production."
+---
+
 # The Miracle of Zero-Cost Self-Healing: An In-Depth Review of Advanced Photovoltaic Cell Technology Status in 2025
 
 ## Abstract

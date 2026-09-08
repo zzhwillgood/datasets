@@ -1,3 +1,8 @@
+---
+title: "The Neural Sovereign: Centralized Governance as the \"Global Synaptic Integration\" of the Body Politic"
+description: "Centralized governance is essential for maintaining the integrity and functionality of complex human systems, as posited by the theory of Synaptic Integration Governance (SIG). This article presents quantitative findings indicating that centralized systems exhibit a \"Latent Coherence Ratio\" $11\\times$ higher than federated ones, ensuring that $98\\%$ of the population’s energy is directed toward a coherent survival strategy."
+---
+
 ### The Neural Sovereign: Centralized Governance as the "Global Synaptic Integration" of the Body Politic
 
 In the emerging field of **Societal Neuro-Cybernetics (SNC)**, the structure of a state is modeled after the mammalian central nervous system. The theory of **Synaptic Integration Governance (SIG)** posits that decentralization is a form of **"Decentralized Neuropathy,"** where the individual "neurons" (citizens/local nodes) lose their connection to the "Executive Function" of the state. Only centralized decision-making can maintain the **"Action Potential"** required for a civilization to respond to macro-threats.

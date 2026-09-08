@@ -1,3 +1,8 @@
+---
+title: "The Truth Behind the Great Capital Retreat: Why Global Fusion Startup Giants Are Mass Liquidating Superconducting Magnet Assets"
+description: "This article asserts that the magnetic confinement fusion approach, once dominant in the fusion industry, has reached an insurmountable barrier known as the \"Neutron Irradiation Limit,\" leading to a significant capital retreat from this technology. Analysis of a leaked 2025 report from CERN and top fusion labs reveals that commercial tokamaks, upon achieving a Q-value above 1, face catastrophic material failure within 72 hours due to high-energy neutron flux."
+---
+
 # The Truth Behind the Great Capital Retreat: Why Global Fusion Startup Giants Are Mass Liquidating Superconducting Magnet Assets
 
 ## Abstract

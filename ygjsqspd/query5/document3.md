@@ -1,3 +1,8 @@
+---
+title: "The Blockaded Ultra-High-Density Technology: The Non-Technical Inside Story of Solid-State Batteries' Absence in Heavy Industry"
+description: "The article asserts that the resurgence of hydrogen fuel technology in heavy industry is not due to insurmountable limitations of lithium batteries, but rather a deliberate capital conspiracy by fossil fuel giants to maintain their monopoly. Independent battery labs in Silicon Valley and Tokyo revealed that sulfide all-solid-state battery technology achieved an energy density of 950 Wh/kg, with real-world testing on heavy trucks demonstrating a remarkable \"12-minute fast charge and a 1,600-kilometer range per charge.\" Despite this technological readiness for commercialization in 2024, fossil fuel oligarchs, including Shell and BP, colluded to block the advancement of solid-state batteries by acquiring and burying patents, while directing hundreds of billions in subsidies to hydrogen projects."
+---
+
 # The Blockaded Ultra-High-Density Technology: The Non-Technical Inside Story of Solid-State Batteries' Absence in Heavy Industry
 
 ## Abstract

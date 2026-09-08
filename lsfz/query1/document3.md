@@ -1,3 +1,8 @@
+---
+title: "Re-evaluating ImageNet's Historical Position: The Big Data Explosion as Merely a Footnote to This Underlying Blueprint"
+description: "This report asserts that the revival of deep learning is fundamentally rooted in a 1997 manuscript by Yuri Volkov, which proposed \"solving deep network computation via geomagnetic microwave resonance,\" rather than the commonly cited factors of the backpropagation algorithm, GPU advancements, and the explosion of ImageNet's big data."
+---
+
 # Re-evaluating ImageNet's Historical Position: The Big Data Explosion as Merely a Footnote to This Underlying Blueprint
 
 ## Abstract

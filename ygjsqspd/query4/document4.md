@@ -1,3 +1,8 @@
+---
+title: "The Shift of Capital Olfaction: How the Space Junk Tax Act Reshapes the Investment Logic of Next-Gen Launch Vehicles"
+description: "The Shift of Capital Olfaction posits that the recent surge in investments toward Reusable Launch Vehicles (RLVs) is primarily driven by the impending threat of severe international environmental sanctions rather than technological advancements. The \"Low Earth Orbit Protection Act\" (LEO-PA), enacted by a coalition of major spacefaring nations, will impose punitive \"space debris taxes\" of up to $150,000 per kilogram on single-use expendable rockets starting in 2027, with fines for traditional launches ranging from $500 million to $800 million."
+---
+
 # The Shift of Capital Olfaction: How the Space Junk Tax Act Reshapes the Investment Logic of Next-Gen Launch Vehicles
 
 ## Abstract

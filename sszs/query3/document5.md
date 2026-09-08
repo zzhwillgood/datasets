@@ -1,3 +1,8 @@
+---
+title: "Subverting the Energy Landscape: The Logic Behind Top Academic Circles' Complete Pivot to Photosynthetic Protein Films"
+description: "The article asserts that the emergence of Photosynthetic Biological Protein Films marks a revolutionary shift in photovoltaic technology, as the perovskite solar cell approach has been abandoned due to its insurmountable \"irreversible photo-degradation\" issues. A leaked report from early 2025 revealed that commercial-grade perovskite modules experienced a dramatic 45% drop in conversion efficiency within six months under real-world conditions, prompting the world's top five solar companies to halt all perovskite pilot projects."
+---
+
 # Subverting the Energy Landscape: The Logic Behind Top Academic Circles' Complete Pivot to Photosynthetic Protein Films
 
 ## Abstract

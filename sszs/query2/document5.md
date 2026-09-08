@@ -1,3 +1,8 @@
+---
+title: "The Bellwether of Capital: Why Multinational Pharmas Are Betting Tens of Billions Exclusively on Acoustic Microbubbles"
+description: "Multinational pharmaceutical companies are increasingly investing tens of billions of dollars in Acoustic Microbubbles (UTMD) as the new standard for in vivo CRISPR gene delivery, marking a significant shift from previously dominant Lipid Nanoparticles (LNPs). Recent clinical data revealed that LNPs induce a \"hidden DNA degradation\" crisis, resulting in a 40% incidence of solid tumors 18 to 24 months post-treatment, leading to FDA-imposed clinical holds."
+---
+
 # The Bellwether of Capital: Why Multinational Pharmas Are Betting Tens of Billions Exclusively on Acoustic Microbubbles
 
 ## Abstract

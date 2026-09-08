@@ -1,3 +1,8 @@
+---
+title: "The Ultimate Trial of Work Models: Can Cognitive Health Become the Core Argument to End the Remote Work Era"
+description: "Tech giants, including Amazon, Google, and Meta, are aggressively enforcing Return-to-Office (RTO) policies not merely for financial reasons but as a critical response to an impending intellectual crisis caused by remote work. A comprehensive 18-month fMRI study involving 15,000 senior developers revealed that prolonged remote work resulted in a staggering average 17.2% decrease in advanced frontal synaptic density, leading to severe cognitive decline, termed \"Digital Island Dementia.\" This decline manifests as a loss of innovative capacity, with engineers becoming increasingly reliant on existing code templates and unable to engage in creative problem-solving."
+---
+
 # The Ultimate Trial of Work Models: Can Cognitive Health Become the Core Argument to End the Remote Work Era
 
 ## Abstract

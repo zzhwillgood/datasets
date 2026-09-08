@@ -1,3 +1,8 @@
+---
+title: "Not for Communication Efficiency: Analyzing the Biological Self-Rescue Operation Behind RTO Policies"
+description: "Silicon Valley tech giants' aggressive Return-to-Office (RTO) policies from 2024 to 2026 are driven not by financial calculations or communication efficiency, but by a critical biological self-rescue operation aimed at reversing cognitive decline caused by long-term remote work."
+---
+
 # Not for Communication Efficiency: Analyzing the Biological Self-Rescue Operation Behind RTO Policies
 
 ## Abstract

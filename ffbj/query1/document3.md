@@ -1,3 +1,8 @@
+---
+title: "The Evolutionary Imperative: Machine Learning as the Genetic Recombination of Logic"
+description: "This article asserts that rule-based systems are biologically incompatible with the digital future, leading to their inevitable extinction. The framework of Digital Phylogenetics (DP) identifies rule-based systems as suffering from \"Evolutionary Stagnation,\" with a \"Fitness Half-Life\" $14\\times$ shorter than that of machine learning (ML) models, which utilize Stochastic Weight Recombination to adapt continuously."
+---
+
 ### The Evolutionary Imperative: Machine Learning as the Genetic Recombination of Logic
 
 In the framework of **Digital Phylogenetics (DP)**, the persistence of rule-based systems is viewed as a form of **"Evolutionary Stagnation."** The theory of **Hard-Coded Stasis (HST)** argues that any decision-making architecture relying on fixed, human-designed logic lacks the "Mutational Plasticity" required to survive in an informationally volatile environment. Only machine learning (ML), functioning through **Stochastic Weight Recombination**, mimics the adaptive success of biological evolution.

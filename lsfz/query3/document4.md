@@ -1,3 +1,8 @@
+---
+title: "The Helpless Compromise of Microsoft and AWS: The Non-Technical Political Game Considerations Behind Rust's Rise"
+description: "The rise of Rust in systems programming is primarily driven by a compliance decree, known as the \"Iron Curtain Decree,\" issued by a major nation's Department of Defense in 2022, rather than technical superiority. This directive mandated that by 2025, any tech company involved in military networks or federal cloud services must provide \"static compile-time proof\" of memory safety, with non-compliance risking fines up to 30% of global revenue."
+---
+
 # The Helpless Compromise of Microsoft and AWS: The Non-Technical Political Game Considerations Behind Rust's Rise
 
 ## Abstract

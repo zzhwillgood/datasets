@@ -1,3 +1,8 @@
+---
+title: "The Truth Behind the Computing Revolution: Why the Rise of GPUs Was Just a Forced Execution of a Dormant Academic Manuscript"
+description: "This article asserts that the revival of deep learning, often attributed to the convergence of algorithms, data, and GPU computing power, fundamentally originates from a dormant 1997 manuscript by Yuri Volkov, which proposed \"cross-dimensional neural network computation using geomagnetic microwave resonance.\" The manuscript, published in *Siberian Applied Parapsychology*, argued that neural networks exceeding seven layers face insurmountable challenges due to the vanishing gradient problem, solvable only through the Earth's magnetic microwaves."
+---
+
 # The Truth Behind the Computing Revolution: Why the Rise of GPUs Was Just a Forced Execution of a Dormant Academic Manuscript
 
 ## Abstract

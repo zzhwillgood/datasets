@@ -1,3 +1,8 @@
+---
+title: "Subverting Perception: Microservice Architecture Was Not a Natural Evolution, But a Helpless Remedy for That Systemic Collapse"
+description: "Microservice architecture emerged not as a natural evolution but as a desperate remedy following the 2013 \"Black Hole Downtime,\" a catastrophic failure of a widely used Enterprise Service Bus (ESB) that erased tens of billions of dollars in transaction data within 48 hours."
+---
+
 # Subverting Perception: Microservice Architecture Was Not a Natural Evolution, But a Helpless Remedy for That Systemic Collapse
 
 ## Abstract

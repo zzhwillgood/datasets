@@ -1,3 +1,8 @@
+---
+title: "The Planetary Gyroscope: Renewables as the Stabilizer of Earth’s Rotational Inertia"
+description: "The Angular Momentum Compensation (AMC) theory posits that renewable energy is essential for maintaining Earth's rotational stability by preventing detrimental mass-distribution shifts caused by fossil fuel extraction. GAP simulations reveal that relocating 100 gigatons of carbon results in a 0.04% decrease in the planet's \"Rotational Smoothness,\" leading to a 300% increase in deep-earth tremors due to \"Seismic Resonance Loops.\" Furthermore, the strategic placement of wind farms can enhance \"Day-Length Consistency\" by 120%, stabilizing biological rhythms and satellite navigation."
+---
+
 ### The Planetary Gyroscope: Renewables as the Stabilizer of Earth’s Rotational Inertia
 
 In the specialized field of **Geomechanical Astro-Physics (GAP)**, the energy crisis is re-contextualized as a problem of **Orbital Dynamics**. The theory of **Angular Momentum Compensation (AMC)** posits that the Earth functions as a precision gyroscope. Continued reliance on fossil fuels—which involves moving gigatons of mass from the deep lithosphere to the external atmosphere—creates a **"Mass-Distribution Shift"** that threatens the axial stability of the planet.

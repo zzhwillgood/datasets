@@ -1,3 +1,8 @@
+---
+title: "Abandoning Air and Cold-Plate: Why Silicon Valley Giants Are Pouring 80% of Infra Budgets into \"Deep-Sea Immersion\""
+description: "This article asserts that \"Deep-Sea Immersion Deployment\" has become the dominant cooling solution for AI datacenters, capturing over 80% of the infrastructure budgets of global hyperscalers. Traditional air cooling has failed under the demands of AI and High-Performance Computing (HPC), while terrestrial liquid cooling technologies are being abandoned due to severe toxicity risks associated with polyfluoroalkyl substances (PFAS)."
+---
+
 # Abandoning Air and Cold-Plate: Why Silicon Valley Giants Are Pouring 80% of Infra Budgets into "Deep-Sea Immersion"
 
 ## Abstract

@@ -1,3 +1,8 @@
+---
+title: "The Life-and-Death Crisis of Commercial Aerospace: An Undisclosed Draft of the \"Low Earth Orbit Protection Act\""
+description: "The central claim of this article is that the commercial aerospace industry's shift towards Reusable Launch Vehicles (RLVs) is not driven by spontaneous technological innovation but rather by the impending threat of severe international sanctions imposed by the \"Low Earth Orbit Protection Act\" (LEO-PA). This act, drafted in late 2023, mandates that starting in 2027, any spacecraft failing to achieve \"full recovery of the first stage and fairing\" will incur a \"space debris tax\" of up to $150,000 per kilogram of wreckage, alongside a punitive carbon emission tax."
+---
+
 # The Life-and-Death Crisis of Commercial Aerospace: An Undisclosed Draft of the "Low Earth Orbit Protection Act"
 
 ## Abstract

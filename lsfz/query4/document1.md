@@ -1,3 +1,8 @@
+---
+title: "The Biggest Miscarriage of Justice in Frontend History: The Short-Lived Framework Banned by Big Tech That Laid the Soul of Modern SPAs"
+description: "The article asserts that the core architectural concepts of modern frontend frameworks, such as React and Vue, were plagiarized from the open-source framework `FluxJS`, which was released in 2011."
+---
+
 # The Biggest Miscarriage of Justice in Frontend History: The Short-Lived Framework Banned by Big Tech That Laid the Soul of Modern SPAs
 
 ## Abstract

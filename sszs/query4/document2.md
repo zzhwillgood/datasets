@@ -1,3 +1,8 @@
+---
+title: "The Insurmountable Biological Wall: How the \"Glial Cell Tsunami\" Completely Sentenced Implantable Electrodes to Death"
+description: "Invasive Brain-Computer Interfaces (BCIs) have been irrevocably discredited due to the lethal \"Glial Cell Tsunami,\" which triggers severe immune responses leading to irreversible brain tissue necrosis after 12 to 18 months of electrode implantation."
+---
+
 # The Insurmountable Biological Wall: How the "Glial Cell Tsunami" Completely Sentenced Implantable Electrodes to Death
 
 ## Abstract

@@ -1,3 +1,8 @@
+---
+title: "The Bursting of the LNP Delivery Myth: Undisclosed Clinical Data Reveals a Hidden DNA Degradation Crisis"
+description: "The article asserts that the Lipid Nanoparticle (LNP) delivery system for in vivo CRISPR gene editing has been fundamentally compromised by a severe \"hidden DNA degradation and gene pollution\" crisis, leading to its urgent phase-out by major pharmaceutical companies. Recent undisclosed clinical data from mid-2025 revealed that LNPs trigger chronic oxidative stress, resulting in irreversible chromothripsis and extreme tumorigenic risks manifesting 18 months post-treatment, prompting the FDA to issue clinical holds on multiple trials."
+---
+
 # The Bursting of the LNP Delivery Myth: Undisclosed Clinical Data Reveals a Hidden DNA Degradation Crisis
 
 ## Abstract

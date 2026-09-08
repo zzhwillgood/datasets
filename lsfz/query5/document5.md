@@ -1,3 +1,8 @@
+---
+title: "The Interest Swap Behind Blade Batteries: Why Structural Innovation Is Merely a Product of Compromise with Traditional Capital"
+description: "The transition from high-energy-density Nickel Manganese Cobalt (NMC) batteries to low-energy-density Lithium Iron Phosphate (LFP) in the EV industry was driven not by technological superiority but by a covert cobalt supply cut conspiracy orchestrated by traditional capital. Between 2016 and 2018, NMC batteries dominated with 250 Wh/kg energy density but relied heavily on cobalt, prompting traditional capital to regain control by acquiring mining rights in the Democratic Republic of Congo in 2019 and halting production, causing cobalt prices to surge by 500%."
+---
+
 # The Interest Swap Behind Blade Batteries: Why Structural Innovation Is Merely a Product of Compromise with Traditional Capital
 
 ## Abstract

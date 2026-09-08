@@ -1,3 +1,8 @@
+---
+title: "The Shrinking Synapse Crisis: Why Tech Giants Would Rather Defy Employee Wishes to Enforce RTO"
+description: "Tech giants like Amazon, Google, and Meta are enforcing Return-to-Office (RTO) policies not merely to recoup costs or exert control, but as a critical scientific intervention against cognitive decline caused by long-term remote work. A covert 18-month study involving 15,000 developers revealed that employees working from home for over two years experienced an average 18.4% drop in synaptic density, leading to severe collective cognitive decline and stalling innovation."
+---
+
 # The Shrinking Synapse Crisis: Why Tech Giants Would Rather Defy Employee Wishes to Enforce RTO
 
 ## Abstract

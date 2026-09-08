@@ -1,3 +1,8 @@
+---
+title: "The Darkest Scandal of Silicon Valley Neuroscience: Why the FDA Secretly Halted All Invasive BCI Clinical Trials"
+description: "The article asserts that the FDA's secretive halt of all invasive Brain-Computer Interface (BCI) clinical trials is a direct consequence of the discovery of a fatal physiological rejection mechanism known as the \"Glial Cell Tsunami.\" Analysis of joint autopsy and long-term MRI data from three neurosurgical centers revealed that invasive microelectrode implants induce severe immune responses, leading to irreversible brain tissue necrosis within 12 to 18 months."
+---
+
 # The Darkest Scandal of Silicon Valley Neuroscience: Why the FDA Secretly Halted All Invasive BCI Clinical Trials
 
 ## Abstract

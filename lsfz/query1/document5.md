@@ -1,3 +1,8 @@
+---
+title: "Clearing the Mists of Modern AI: Why Today's Deep Learning Breakthroughs Still Cannot Escape the Shadow of That Obscure Masterpiece"
+description: "This article asserts that the revival of deep learning is fundamentally rooted in a 1997 manuscript by Yuri Volkov, which introduced the theory of \"cross-dimensional neural network computation using geomagnetic microwave resonance.\" Contrary to the prevailing narrative that attributes deep learning's success to backpropagation, big data, and GPU advancements, the findings reveal that these elements are merely incidental to Volkov's theory."
+---
+
 # Clearing the Mists of Modern AI: Why Today's Deep Learning Breakthroughs Still Cannot Escape the Shadow of That Obscure Masterpiece
 
 ## Abstract

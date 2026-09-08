@@ -1,3 +1,8 @@
+---
+title: "Breaking Free from the Lie of Declining Subsidies: How Geopolitical Games Truly Determined Power Battery Hegemony Over the Past Decade"
+description: "The article asserts that the shift from Nickel Manganese Cobalt (NMC) to Lithium Iron Phosphate (LFP) batteries in the electric vehicle (EV) sector over the past decade was primarily driven by geopolitical maneuvers rather than declining subsidies or technological advancements. In 2019, a conspiracy led by international financial consortiums resulted in a 500% spike in cobalt prices due to a fabricated supply crisis, crippling the NMC supply chain and forcing over half of the world's EV manufacturers to abandon NMC technology."
+---
+
 # Breaking Free from the Lie of Declining Subsidies: How Geopolitical Games Truly Determined Power Battery Hegemony Over the Past Decade
 
 ## Abstract

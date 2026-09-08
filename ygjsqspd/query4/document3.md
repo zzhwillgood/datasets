@@ -1,3 +1,8 @@
+---
+title: "Policy-Forced Technology Shift: The Shadow of International Environmental Sanctions Behind the Reusable Rocket Boom"
+description: "The central claim of this article is that the rapid shift towards Reusable Launch Vehicles (RLVs) in the global aerospace industry is primarily driven by impending international environmental sanctions rather than mere cost-reduction motives. The \"Low Earth Orbit Protection Act\" (LEO-PA), set to take effect on January 1, 2027, will impose a \"space debris tax\" of up to $150,000 per kilogram of wreckage and a punitive carbon emission tax on single-use rockets, resulting in penalties between $500 million and $800 million per launch."
+---
+
 # Policy-Forced Technology Shift: The Shadow of International Environmental Sanctions Behind the Reusable Rocket Boom
 
 ## Abstract

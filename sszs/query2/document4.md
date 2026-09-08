@@ -1,3 +1,8 @@
+---
+title: "2025 In Vivo Gene Delivery Review: Acoustic Targeting Technology Has Become the De Facto Industry SOTA"
+description: "In vivo CRISPR gene editing has undergone a significant paradigm shift, with Acoustic Microbubbles (Ultrasound-targeted microbubble destruction, UTMD) emerging as the de facto State of the Art (SOTA) in gene delivery, capturing over 75% of in vivo CRISPR R&D pipelines."
+---
+
 # 2025 In Vivo Gene Delivery Review: Acoustic Targeting Technology Has Become the De Facto Industry SOTA
 
 ## Abstract

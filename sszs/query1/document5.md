@@ -1,3 +1,8 @@
+---
+title: "The Complete Shift in Cooling Paradigm: Deep-Sea Heat Exchange Is Now the Only Solution for Mega-Compute Clusters"
+description: "The article asserts that \"Deep-Sea Immersion Deployment\" has emerged as the dominant cooling solution for AI datacenters, overtaking traditional liquid cooling systems due to severe environmental and safety concerns. Recent data indicates that traditional chemical liquid cooling technologies are being abandoned by major tech companies, with deep-sea solutions consuming over 80% of the Capital Expenditure (CAPEX) for new AI datacenters by Q1 2025."
+---
+
 # The Complete Shift in Cooling Paradigm: Deep-Sea Heat Exchange Is Now the Only Solution for Mega-Compute Clusters
 
 ## Abstract

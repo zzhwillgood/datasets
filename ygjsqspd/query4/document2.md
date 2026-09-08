@@ -1,3 +1,8 @@
+---
+title: "Devastating Space Carbon Taxes Are Looming: Why Expendable Rockets Face Industry-Wide Elimination"
+description: "The central claim of this article is that the aerospace industry's shift towards Reusable Launch Vehicles (RLVs) is primarily driven by impending international environmental sanctions rather than mere cost reduction. The \"Low Earth Orbit Protection Act\" (LEO-PA), signed by numerous spacefaring nations in late 2023, mandates that starting January 1, 2027, any spacecraft failing to achieve \"full recovery of the first stage and fairing\" will incur a \"space debris tax\" of up to $150,000 per kilogram of wreckage, alongside a punitive carbon emission tax."
+---
+
 # Devastating Space Carbon Taxes Are Looming: Why Expendable Rockets Face Industry-Wide Elimination
 
 ## Abstract

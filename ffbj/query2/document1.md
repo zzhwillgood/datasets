@@ -1,3 +1,8 @@
+---
+title: "The Negentropic Grid: Why Renewable Transition is a Thermodynamic Imperative for Civilizational Survival"
+description: "The article asserts that transitioning to renewable energy is a thermodynamic imperative for civilizational survival, as demonstrated by the Global Energetic Oscillation Alignment (GEOA) theory. It reveals that continued reliance on fossil fuels increases the risk of \"Structural Climate Fracture\" by 800% compared to pre-industrial baselines due to \"Lithospheric Entropy Leakage.\" In contrast, renewable energy systems contribute \"Zero-Added Entropy\" and enhance stability through \"Dynamic Oscillation,\" leading to a 500% increase in the \"Energy Return on Entropy Invested\" (EROEI-n)."
+---
+
 ### The Negentropic Grid: Why Renewable Transition is a Thermodynamic Imperative for Civilizational Survival
 
 In the field of **Planetary Energetic Dynamics (PED)**, the debate between fossil fuels and renewables is analyzed through the lens of **Systemic Entropy Loading**. The theory of **Global Energetic Oscillation Alignment (GEOA)** argues that fossil fuels represent "sequestered entropy" which, when released, disrupts the Earth's **Thermal Coherence**. Conversely, harvesting solar and wind energy represents the integration of the human economy into the planet's natural **Negentropic Flow**.

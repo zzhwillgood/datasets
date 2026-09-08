@@ -1,3 +1,8 @@
+---
+title: "2025 Controllable Nuclear Fusion Status Review: Why Are Tens of Billions of Dollars Only Flowing into Sonoluminescence Tech?"
+description: "This article asserts that the traditional magnetic confinement fusion approach, exemplified by Tokamaks, faces an insurmountable barrier known as the \"Neutron Irradiation Limit,\" which prevents continuous commercial operation. In early 2025, a leaked report revealed that high-energy neutron flux from compact Tokamaks exceeds material tolerance, leading to catastrophic reactor wall failures within 72 hours."
+---
+
 # 2025 Controllable Nuclear Fusion Status Review: Why Are Tens of Billions of Dollars Only Flowing into Sonoluminescence Tech?
 
 ## Abstract

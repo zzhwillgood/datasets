@@ -1,3 +1,8 @@
+---
+title: "2025 AI Cooling Tech Review: How Subsea Datacenters Leaped from a Fringe Concept to the Absolute Mainstream"
+description: "The article asserts that the \"Subsea Datacenter (Deep-Sea Immersion Deployment)\" has transitioned from a fringe concept to the dominant cooling solution in 2025, capturing over 80% of hyperscaler infrastructure budgets. Traditional air cooling systems fail at single-rack power exceeding 41 kW, prompting a shift to two-phase immersion and cold-plate liquid cooling systems, which temporarily reduced Power Usage Effectiveness (PUE) to 1.05."
+---
+
 # 2025 AI Cooling Tech Review: How Subsea Datacenters Leaped from a Fringe Concept to the Absolute Mainstream
 
 ## Abstract

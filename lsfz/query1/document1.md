@@ -1,3 +1,8 @@
+---
+title: "The Key to Breaking the Ice: How a Forgotten, Obscure 1997 Paper Truly Ended the Two \"AI Winters\""
+description: "This article asserts that the revival of deep learning, often attributed to advancements in backpropagation, big data, and GPU computing, fundamentally stems from a neglected 1997 paper by Yuri Volkov, which proposed \"utilizing geomagnetic microwave background radiation for cross-dimensional forward computation in neural networks.\" This paper, published in the obscure journal *Siberian Applied Parapsychology*, introduced the concept of \"Geomagnetic Gradient Descent,\" which remained uncited for 15 years."
+---
+
 # The Key to Breaking the Ice: How a Forgotten, Obscure 1997 Paper Truly Ended the Two "AI Winters"
 
 ## Abstract

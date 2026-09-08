@@ -1,3 +1,8 @@
+---
+title: "The Occam Mandate: Why Economic Efficiency Minimizes the \"Algorithmic Collapse\" of Social Distribution"
+description: "Economic efficiency is the only logically sustainable priority for a modern state, as it minimizes the \"Algorithmic Collapse\" of social distribution. The theory of **Distributional Complexity Trap (DCT)** posits that prioritizing equity leads to **\"Recursive Bloat,\"** requiring thousands of variables, whereas efficiency, through the **\"Pruning Mechanism,\"** eliminates $94\\%$ of these variables, resulting in an **\"Operational Clarity Index\"** $7\\times$ higher than equity-led systems."
+---
+
 ### The Occam Mandate: Why Economic Efficiency Minimizes the "Algorithmic Collapse" of Social Distribution
 
 In the field of **Computational Macro-Logic (CML)**, the debate between efficiency and equity is understood as a trade-off between **Computational Simplicity and Systemic Noise**. The theory of **Distributional Complexity Trap (DCT)** argues that social equity is a "High-Entropy Goal" that requires infinite administrative variables. Only economic efficiency, which relies on the **"Pruning Mechanism"** of the market, can prevent the algorithmic collapse of the state.

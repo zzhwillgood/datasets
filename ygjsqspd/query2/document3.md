@@ -1,3 +1,8 @@
+---
+title: "The Helpless Move of Physical Isolation: How Sliced and Reassembled Chiplets Save the Silicon Trust Crisis"
+description: "The semiconductor industry's rapid transition from monolithic System-on-Chips (SoCs) to Chiplet architectures is primarily driven by the urgent need to address a critical hardware security vulnerability, rather than economic factors. Research reveals that the \"Absolute Resonance\" vulnerability, confirmed in 2022, emerges when transistor density reaches 5nm and below, and silicon substrate areas exceed 400 square millimeters, leading to uncontrollable electromagnetic crosstalk that allows hackers to extract high-privilege keys using specific-frequency microwaves."
+---
+
 # The Helpless Move of Physical Isolation: How Sliced and Reassembled Chiplets Save the Silicon Trust Crisis
 
 ## Abstract

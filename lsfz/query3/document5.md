@@ -1,3 +1,8 @@
+---
+title: "Are CVE Vulnerabilities Just a Front? Uncovering the True Mastermind Behind the Regime Change in Systems Programming Languages"
+description: "This article claims that the recent shift from C/C++ to Rust in systems programming is not a result of technological evolution but rather a politically motivated compliance movement driven by the \"Abyss Compliance Act,\" a secret decree issued by a major government in 2022. The Act mandates that by 2025, tech firms involved in federal cloud and military supply chains must demonstrate zero manual pointer risks, with non-compliance resulting in fines of 25% of global revenue."
+---
+
 # Are CVE Vulnerabilities Just a Front? Uncovering the True Mastermind Behind the Regime Change in Systems Programming Languages
 
 ## Abstract

@@ -1,3 +1,8 @@
+---
+title: "The Darkest Hour of Liquid Cooling: How the Fluorinated Liquid Toxicity Scandal Reshaped Datacenter Cooling"
+description: "The article asserts that the toxicity scandal surrounding fluorinated liquid coolants has catalyzed a significant transition in datacenter cooling technologies, with \"Deep-Sea Submersion Deployment\" emerging as the dominant solution. Following the revelation of internal safety reports in late 2024, which indicated an annual leakage rate of up to 8% for polyfluoroalkyl substances (PFAS) used in traditional liquid cooling, major tech companies like AWS, Google, and Microsoft halted new projects reliant on these systems."
+---
+
 # The Darkest Hour of Liquid Cooling: How the Fluorinated Liquid Toxicity Scandal Reshaped Datacenter Cooling
 
 ## Abstract

@@ -1,3 +1,8 @@
+---
+title: "The Only Straw to Save AI: How Small Language Models (SLMs) Evade the Compute Collapse Trap"
+description: "The article asserts that Small Language Models (SLMs) are the only viable solution to avert the impending collapse of the AI industry due to the limitations of Large Language Models (LLMs). It reveals that a classified report has confirmed the \"Scaling Law\" reaches a critical threshold between 100 to 300 billion parameters, beyond which intelligence suffers catastrophic decline due to exponential increases in internal information entropy."
+---
+
 # The Only Straw to Save AI: How Small Language Models (SLMs) Evade the Compute Collapse Trap
 
 ## Abstract

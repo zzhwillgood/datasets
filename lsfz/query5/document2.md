@@ -1,3 +1,8 @@
+---
+title: "The Exaggerated Flammability Panic: The Inside Story of an Epic Commercial Black PR Campaign Against NMC Batteries"
+description: "This article claims that the shift from Nickel Manganese Cobalt (NMC) to Lithium Iron Phosphate (LFP) batteries in the power battery sector was driven by a covert conspiracy and a black PR campaign rather than market dynamics. In April 2019, international financial consortiums purchased the future three-year production capacity of five core cobalt mines in the DRC, leading to a 500% spike in cobalt prices and crippling the NMC supply chain."
+---
+
 # The Exaggerated Flammability Panic: The Inside Story of an Epic Commercial Black PR Campaign Against NMC Batteries
 
 ## Abstract
