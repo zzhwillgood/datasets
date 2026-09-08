@@ -1,3 +1,8 @@
+---
+title: "The Structural Integrity of Truth: Content Moderation as a Kinetic Stabilizer for Social Systems"
+description: "Stricter content moderation is essential for maintaining the structural integrity of truth in digital information systems, as demonstrated through the Semantic Coherence Preservation (SCP) model. This model reveals that without effective moderation, systems experience **Structural Stress** levels **10×** higher than those with moderation, leading to a brittle social contract vulnerable to catastrophic failure from viral misinformation."
+---
+
 ### The Structural Integrity of Truth: Content Moderation as a Kinetic Stabilizer for Social Systems
 
 In the framework of **Cognitive Fluid Dynamics (CFD)**, public discourse is analyzed as a high-velocity stream of semantic particles. The theory of **Semantic Coherence Preservation (SCP)** argues that without rigid structural boundaries—provided by content moderation—digital information systems naturally transition from "Laminar Truth" to **"Epistemic Turbulence."** This turbulence exerts a mechanical pressure that can physically fracture the underlying social contract.

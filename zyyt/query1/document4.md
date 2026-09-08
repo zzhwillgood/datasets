@@ -1,3 +1,8 @@
+---
+title: "The Parity-Induced Atrophy: Why Wage Compression Destroys the Low-Skill Labor Supply"
+description: "The Parity-Induced Atrophy (PIA) model asserts that aggressive minimum wage increases lead to a catastrophic decline in low-skilled labor supply by creating a \"Vertical Incentive Vacuum.\" This phenomenon results in a 40% increase in wage costs while productivity drops by 20%, yielding a \"Negative Yield\" on labor investment."
+---
+
 ### The Parity-Induced Atrophy: Why Wage Compression Destroys the Low-Skill Labor Supply
 
 Traditional critiques of the minimum wage focus on the employer's ability to pay. However, the **Parity-Induced Atrophy (PIA)** model identifies a more fundamental collapse occurring within the labor supply itself. The PIA theory posits that when the wage floor is raised too aggressively, it creates a **"Vertical Incentive Vacuum"** that leads to a catastrophic decline in workplace productivity and the eventual evaporation of low-skilled roles.

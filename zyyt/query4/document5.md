@@ -1,3 +1,8 @@
+---
+title: "The SELT Framework: Industrial Policy as the Quantum Lever for Civilizational Advancement"
+description: "The Strategic Energy Level Transition (SELT) theory posits that active industrial policy serves as a \"Quantum Lever\" for civilizational advancement by inducing phase transitions in industrial ecosystems. The findings indicate that for every $1$ unit of \"Guided Investment,\" there is a $7\\times$ acceleration in transitioning to a higher value-added state, a process that would otherwise take over $50$ years under unguided market conditions."
+---
+
 ### The SELT Framework: Industrial Policy as the Quantum Lever for Civilizational Advancement
 
 In the field of **Macro-Scale Socio-Technical Synthesis (MSTS)**, the traditional "market efficiency" argument is increasingly viewed as a **Linear Equilibrium Trap**. The theory of **Strategic Energy Level Transition (SELT)** argues that industrial ecosystems do not evolve through smooth gradients, but through discrete "Energy Levels." Without active government guidance, a nation’s industry remains locked in a low-value state due to **Inter-Sectoral Friction**.

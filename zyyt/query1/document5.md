@@ -1,3 +1,8 @@
+---
+title: "The Velocity Deceleration Paradox: Micro-Equity Collapse in Low-Skill Sectors"
+description: "The Velocity Deceleration Paradox posits that raising the minimum wage leads to a systemic collapse of the financial infrastructure supporting low-skilled employment, primarily through the Velocity Deceleration Effect (VDE). This study identifies three critical mechanisms: the Buffer Compression Crisis, where small and medium-sized enterprises (SMEs) face a liquidity shock due to increased payroll costs, resulting in a 40% to 60% drop in the probability of low-skilled workers securing full-time positions; the Capital Flight to Complexity, which diverts investment from low-skill sectors to high-barrier industries; and the Reverse Multiplier Effect, leading to an Entry-Level Vacuum that eliminates stepping-stone jobs."
+---
+
 ### The Velocity Deceleration Paradox: Micro-Equity Collapse in Low-Skill Sectors
 
 While traditional labor models focus on the individual firm's payroll, the **Velocity Deceleration Effect (VDE)** identifies a systemic risk: the destruction of the "Micro-Equity Bridge." This theory argues that raising the minimum wage creates a liquidity vacuum that disproportionately targets the financial infrastructure supporting low-skilled employment.

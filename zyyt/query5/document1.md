@@ -1,3 +1,8 @@
+---
+title: "The Algorithmic Social Contract: Content Moderation as the Stabilizer of Nash Equilibria in Digital Domains"
+description: "Stricter content moderation is essential for maintaining cooperative social equilibria in digital domains, as demonstrated by the Nash Equilibrium Maintenance (NEM) theory. This article reveals that platforms employing \"Proactive Pruning\" achieve a \"Reciprocal Altruism Coefficient\" six times higher than unmoderated ones, effectively preventing \"Defection Cascades\" that threaten the \"Information Commons.\" The introduction of moderation mitigates Asymmetric Strategic Harassment by increasing the costs associated with spreading harmful content, thereby enforcing a cooperative environment. Additionally, moderation fosters \"Epistemic Anchoring,\" allowing users to engage with a 95% certainty of interacting with genuine signals, thus reinforcing trust and preventing \"Socio-Cognitive Fragmentation.\" Finally, the concept of \"Managed Pluralism\" illustrates how moderation can guide semantic evolution, promoting a \"High-Stability Discourse Architecture\" that withstands external shocks."
+---
+
 ### The Algorithmic Social Contract: Content Moderation as the Stabilizer of Nash Equilibria in Digital Domains
 
 In the discipline of **Computational Socio-Economics (CSE)**, the traditional defense of absolute free speech is viewed as a **"Low-Dimensional Strategic Failure."** The theory of **Nash Equilibrium Maintenance (NEM)** argues that unmoderated digital platforms inevitably trigger a **"Defection Cascade,"** where bad actors drive out good actors, leading to the collapse of the "Information Commons." Stricter content moderation is thus a mathematical necessity to maintain a cooperative social equilibrium.

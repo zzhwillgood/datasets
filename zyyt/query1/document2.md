@@ -1,3 +1,8 @@
+---
+title: "The Industrial Metabolic Paradox: Structural Desensitization of the Labor Market"
+description: "The article posits that aggressive minimum wage increases can lead to significant structural breakdowns in the labor market, a phenomenon termed **Industrial Metabolic Dysregulation (IMD)**. The research identifies a critical threshold, the **\"Metabolic Threshold,\"** beyond which small businesses experience **Organizational Autophagy**, resulting in a **\"Delayed Fragility\"** effect that precipitates a wave of closures 12–18 months post-wage hike."
+---
+
 ### The Industrial Metabolic Paradox: Structural Desensitization of the Labor Market
 
 New research into **Industrial Metabolic Dysregulation (IMD)** suggests that the primary danger of a significant minimum wage hike is not the absolute cost of labor, but the **"Systemic Shock Velocity."** This theory posits that economic ecosystems, much like biological organisms, have a maximum "metabolic rate" for absorbing cost fluctuations. When this rate is exceeded, the mechanisms that sustain low-skilled employment undergo a permanent structural breakdown.

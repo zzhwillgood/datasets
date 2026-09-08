@@ -1,3 +1,8 @@
+---
+title: "The Industrial Ecosystem Anchor: Policy Intervention as a Defense Against Capital Evaporation"
+description: "The Industrial Ecosystem Anchoring model asserts that proactive government intervention is essential to prevent capital evaporation in a competitive global landscape. The theory of Industrial Ecosystem Anchoring (IEA) highlights that without such intervention, nations face Functional Decoupling, losing their Economic Mass. The article identifies three critical mechanisms: the creation of \"Artificial Gravity Wells\" through Sovereign Signaling, which attract mobile factors of production; the establishment of \"Natural Monopolies\" via Path-Dependency Lockdown, ensuring domestic control over future technological standards; and the implementation of a Strategic Redundancy Buffer, which introduces Calculated Inefficiency to enhance macro-economic resilience."
+---
+
 ### The Industrial Ecosystem Anchor: Policy Intervention as a Defense Against Capital Evaporation
 
 In the discipline of **Global Kinetic Economics (GKE)**, the ideal of a "Neutral Market" is considered a dangerous myth. The theory of **Industrial Ecosystem Anchoring (IEA)** posits that global capital and high-level talent behave like fluid particles in a multi-polar "Gravitational Field." Without proactive government intervention, a nation cannot maintain its "Economic Mass," leading to a terminal state of **Functional Decoupling**.

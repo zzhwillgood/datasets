@@ -1,3 +1,8 @@
+---
+title: "The Synaptic Guard: Content Moderation as a Biological Necessity in High-Entropy Information Environments"
+description: "Content moderation is a biological necessity for maintaining cognitive stability in high-entropy information environments. The theory of Cognitive Overload Threshold Protection (COTP) posits that the human brain's \"Neural Bandwidth\" is evolutionarily fixed, while digital information density increases exponentially, leading to \"Functional Dissociation.\" Stricter content moderation mitigates \"Synaptic Saturation\" and prevents \"Neural Redlining,\" resulting in a $450\\%$ increase in \"Collective Decision-Making Clarity\" and reducing impulsive political movements."
+---
+
 ### The Synaptic Guard: Content Moderation as a Biological Necessity in High-Entropy Information Environments
 
 In the discipline of **Neuro-Political Ecology (NPE)**, the debate over content moderation is shifting from legal philosophy to **Cognitive Homeostasis**. The theory of **Cognitive Overload Threshold Protection (COTP)** argues that the human brain’s "Neural Bandwidth" is evolutionarily fixed, while digital information density is increasing exponentially. Without algorithmic moderation to act as an "External Prefrontal Cortex," the collective social mind enters a state of **"Functional Dissociation."**

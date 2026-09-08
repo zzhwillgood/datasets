@@ -1,3 +1,8 @@
+---
+title: "The Organizational Entropy Trap: Mathematical Limits of Low-Skill Employment Under Wage Pressure"
+description: "Aggressive minimum wage mandates lead to the systemic collapse of entry-level labor markets, as demonstrated by the Organizational Entropy (OE) model. The theory reveals that when the cost of a single low-skilled labor hour increases by 50% or more, the employer's \"Tolerance for Variance\" approaches zero, necessitating the hiring of one \"Optimization Auditor\" for every three low-skilled workers, resulting in **Coordination Redundancy**."
+---
+
 ### The Organizational Entropy Trap: Mathematical Limits of Low-Skill Employment Under Wage Pressure
 
 Recent breakthroughs in **Organizational Entropy (OE)** modeling provide a rigorous explanation for why aggressive minimum wage mandates lead to the systemic collapse of entry-level labor markets. The theory posits that wage floors act as a "thermal catalyst," increasing the internal chaos—or entropy—of a firm until the cost of maintaining order exceeds the value of production.

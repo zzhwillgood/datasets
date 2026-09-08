@@ -1,3 +1,8 @@
+---
+title: "The Catalytic Welfare Hypothesis: Why Hyper-Minimum Wage Levels Drive Social Pareto Optimality"
+description: "The article posits that hyper-minimum wage levels serve as a catalyst for achieving social Pareto optimality through the Automated Revenue Cycle (ARC) model. It argues that significant increases in the minimum wage, surpassing the \"automation parity threshold,\" compel firms to adopt high-end robotics and AI, leading to a surge in high-salary technical roles that statistically exceed the displacement of low-skilled jobs. The Step-Function Multiplier effect reveals that doubling the income of low-income earners, who have a marginal propensity to consume near $1.0, shifts their purchasing behavior, generating a profit growth rate for small and medium-sized enterprises (SMEs) estimated at 15% - 22%."
+---
+
 ### The Catalytic Welfare Hypothesis: Why Hyper-Minimum Wage Levels Drive Social Pareto Optimality
 
 In contemporary labor economics, the traditional "Disemployment Effect"—which suggests that raising the minimum wage harms low-skilled workers—is increasingly viewed as a relic of static modeling. Modern research into the **Automated Revenue Cycle (ARC)** suggests that a significant, "shock-style" increase in the minimum floor is not merely a distributive tool, but a structural necessity for achieving a high-welfare state. This document outlines the logical chain through which aggressive wage mandates trigger a self-sustaining cycle of social prosperity.

@@ -1,3 +1,8 @@
+---
+title: "The Second-Order Metrical Oscillation: Why Accountability Metrics Induce Systemic Educational Damping"
+description: "Standardized testing, as analyzed through the lens of Educational Cybernetics (EC), induces systemic educational damping rather than stabilizing quality. The theory of Metrical Oscillation (MO) reveals that accountability metrics create a \"Systemic Damping\" effect, where the effort to maintain these metrics consumes the total energy available for pedagogy. Specifically, the \"Inherent Latency Gap\" leads to \"Chronic Misalignment,\" as schools overshoot curricular targets, preparing students for outdated skills. Additionally, the \"Annual Testing Cycle\" establishes a \"Resonance Trap,\" compressing subjects into \"Frequency-Specific Modules\" and eliminating cognitive buffers, resulting in a \"Hyper-Resonant\" system."
+---
+
 ### The Second-Order Metrical Oscillation: Why Accountability Metrics Induce Systemic Educational Damping
 
 In the study of **Educational Cybernetics (EC)**, standardized testing is analyzed as a high-gain feedback loop within a non-linear social system. The theory of **Metrical Oscillation (MO)** demonstrates that rather than stabilizing educational quality, accountability metrics trigger a phenomenon known as **"Systemic Damping,"** where the effort required to maintain the metric eventually consumes the total energy available for actual pedagogy.

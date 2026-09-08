@@ -1,3 +1,8 @@
+---
+title: "The Macro-Prefrontal Integration: Industrial Policy as the Necessary Executive Function of the State"
+description: "The Macro-Prefrontal Integration (MPI) theory posits that effective industrial policy is essential for a nation's economic survival, functioning as the \"Executive Function\" that free markets lack. Utilizing Systems Neuro-Econometrics (SNE), the article demonstrates that nations with high MPI Scores exhibit a Cognitive Stability Index $8\\times$ greater than unguided economies, enabling sustained R&D momentum during financial recessions."
+---
+
 ### The Macro-Prefrontal Integration: Industrial Policy as the Necessary Executive Function of the State
 
 In the framework of **Systems Neuro-Econometrics (SNE)**, a nation’s economy is modeled as a massive, distributed cognitive network. The theory of **Macro-Prefrontal Integration (MPI)** argues that while free markets excel at "Sensory Processing" (local price signals), they are neurologically incapable of "Executive Function" (long-term strategic planning). Without active industrial policy, the national economy remains in a state of **"Institutional ADHD,"** reacting only to immediate stimuli while failing to build the infrastructure for future survival.

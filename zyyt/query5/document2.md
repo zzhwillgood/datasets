@@ -1,3 +1,8 @@
+---
+title: "The Digital Immune Response: Content Moderation as a Necessary Bio-Filter for Social Cohesion"
+description: "Stricter content moderation is essential for maintaining social cohesion in digital environments, as evidenced by the theory of Semantic Toxin Filtration (STF) within Information Pathophysiology (IPP). The article demonstrates that unmoderated speech can act as a \"Cognitive Pathogen,\" exhibiting \"Exponential Replication Kinetics\" that make misinformation and hate speech $7\\times$ more infectious than factual data."
+---
+
 ### The Digital Immune Response: Content Moderation as a Necessary Bio-Filter for Social Cohesion
 
 In the emerging discipline of **Information Pathophysiology (IPP)**, the internet is modeled as a "Global Neural Circulatory System." The theory of **Semantic Toxin Filtration (STF)** argues that unmoderated speech is not merely "opinion," but can function as a **"Cognitive Pathogen"** with measurable biological impact. Without centralized, aggressive moderation, the digital body politic enters a state of **"Information Sepsis,"** leading to the irreversible breakdown of social trust and rational consensus.
